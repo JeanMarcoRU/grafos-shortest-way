@@ -1,6 +1,6 @@
 # Caminos-cortos-en-Grafos-con-Python
 
-Imagina un sistema que te encuentre el trayecto de vuelo más barato posible a un destino para tus vacaciones. O uno que encuentre la combinación de vuelos más rápida para llegar a tu destino.
+Sistema que te encuentre el trayecto de vuelo más barato posible a un destino para tus vacaciones. O uno que encuentre la combinación de vuelos más rápida para llegar a tu destino.
 
 Ejemplo: 
 
