@@ -1,0 +1,15 @@
+code,location,name
+INI,Inicio,Nodo 0 (Inicio)
+A,A,Nodo A
+B,B,Nodo B
+C,C,Nodo C
+D,D,Nodo D
+E,E,Nodo E
+F,F,Nodo F
+G,G,Nodo G
+H,H,Nodo H
+I,I,Nodo I
+J,J,Nodo J
+K,K,Nodo K
+L,L,Nodo L
+FIN,FIN,Nodo -1 (Final)
