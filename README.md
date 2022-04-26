@@ -2,7 +2,7 @@
 
 Imagina un sistema que te encuentre el trayecto de vuelo más barato posible a un destino para tus vacaciones. O uno que encuentre la combinación de vuelos más rápida para llegar a tu destino.
 
-En el siguiente vídeo explico con un ejemplo cómo utilizar Grafos en Python.
+Ejemplo: 
 
-[![Encontrando caminos óptimos con grafos en Python](https://img.youtube.com/vi/s2p--apN0w8/0.jpg)](https://www.youtube.com/watch?v=s2p--apN0w8)
+![image](https://user-images.githubusercontent.com/15478613/165209812-4329f771-ecd0-4b0d-aba6-80b97400c20d.png)
 
